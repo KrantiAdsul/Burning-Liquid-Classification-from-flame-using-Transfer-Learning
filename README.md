@@ -1,7 +1,5 @@
 # Burning-Liquid-Classification-from-flame-using-Transfer-Learning
 
-# Burning Liquid Classification Project
-
 ## Overview
 This project focuses on using transfer learning to classify burning liquids in static flame images. The goal is to fine-tune a pretrained ResNet-34 model and evaluate its performance comprehensively.
 
